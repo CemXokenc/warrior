@@ -1,5 +1,3 @@
-package com.shpp.p2p.cs.oplotnikov.collections;
-
 import java.util.ArrayList;
 import java.util.List;
 
